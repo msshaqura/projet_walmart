@@ -1,3 +1,14 @@
+---
+title: Walmart Sales Prediction
+emoji: 📊
+colorFrom: blue
+colorTo: yellow
+sdk: docker
+sdk_version: "1.28.0"
+app_file: hf_app.py
+pinned: false
+---
+
 # Walmart Sales Prediction
 
 ## 🎯 Objectif du projet
