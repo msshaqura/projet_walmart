@@ -1,0 +1,28 @@
+# Environnement virtuel
+venv/
+venv_walmart/
+env/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Rapports (ne pas partager)
+reports/
+*.docx
+
+# Logs
+*.log
+*.tmp

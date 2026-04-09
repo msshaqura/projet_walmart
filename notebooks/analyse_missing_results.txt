@@ -1,0 +1,94 @@
+======================================================================
+ANALYSE DU PATTERN DE VALEURS MANQUANTES - Weekly_Sales
+======================================================================
+
+1. STATISTIQUES GÉNÉRALES
+Total lignes : 150
+Lignes avec Weekly_Sales manquant : 14
+Pourcentage : 9.33%
+
+2. ANALYSE PAR STORE
+Weekly_Sales_missing  False  True 
+Store                             
+1.0                       9      2
+2.0                       8      0
+3.0                      12      3
+4.0                       6      1
+5.0                       8      1
+6.0                       6      1
+7.0                       8      0
+8.0                       6      2
+9.0                       4      0
+10.0                      5      0
+11.0                      3      0
+12.0                      5      0
+13.0                      9      0
+14.0                      9      0
+15.0                      4      0
+16.0                      4      0
+17.0                      7      1
+18.0                     10      0
+19.0                      8      1
+20.0                      5      2
+
+Chi-square test pour Store : p-value = 0.651452
+→ Pas de relation significative entre Store et les valeurs manquantes
+
+3. ANALYSE PAR HOLIDAY_FLAG
+Weekly_Sales_missing  False  True 
+Holiday_Flag_filled               
+-1.0                     11      1
+ 0.0                    116     11
+ 1.0                      9      2
+
+Chi-square test pour Holiday_Flag : p-value = 0.617784
+→ Pas de relation significative
+
+4. ANALYSE PAR VARIABLES NUMÉRIQUES
+
+--- Temperature ---
+Missing group - moyenne: 67.38, std: 16.39, n: 11
+Present group - moyenne: 60.85, std: 18.51, n: 121
+T-test p-value: 0.260828
+→ Pas de différence significative
+
+--- Fuel_Price ---
+Missing group - moyenne: 3.36, std: 0.48, n: 12
+Present group - moyenne: 3.32, std: 0.48, n: 124
+T-test p-value: 0.763357
+→ Pas de différence significative
+
+--- CPI ---
+Missing group - moyenne: 197.28, std: 37.72, n: 13
+Present group - moyenne: 178.09, std: 40.24, n: 125
+T-test p-value: 0.102315
+→ Pas de différence significative
+
+--- Unemployment ---
+Missing group - moyenne: 6.97, std: 0.93, n: 13
+Present group - moyenne: 7.67, std: 1.62, n: 122
+T-test p-value: 0.130146
+→ Pas de différence significative
+
+5. ANALYSE PAR MOIS
+Weekly_Sales_missing  False  True 
+Mois                              
+1.0                       5      2
+2.0                      12      0
+3.0                      10      1
+4.0                       9      1
+5.0                      14      1
+6.0                      14      0
+7.0                      12      3
+8.0                      11      0
+9.0                       7      3
+10.0                      8      1
+11.0                      8      0
+12.0                      8      2
+
+Chi-square test pour Mois : p-value = 0.217135
+→ Pas de relation significative
+
+======================================================================
+CONCLUSION
+======================================================================
