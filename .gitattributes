@@ -1,0 +1,10 @@
+# Fichiers binaires à traiter avec Git LFS
+*.pkl filter=lfs diff=lfs merge=lfs -text
+*.joblib filter=lfs diff=lfs merge=lfs -text
+
+# Fichiers CSV (texte)
+*.csv text
+
+# Fichiers images
+*.png binary
+*.jpg binary
