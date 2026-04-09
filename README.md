@@ -1,14 +1,15 @@
 ---
-title: Streamlit Template Space
+title: Walmart Project
 emoji: 🚀
 colorFrom: red
 colorTo: red
 sdk: docker
 app_port: 8501
 tags:
-  - streamlit
+- streamlit
 pinned: false
-short_description: Streamlit template space
+short_description: Bloc 3
+license: mit
 ---
 
 # Welcome to Streamlit!
