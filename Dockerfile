@@ -22,4 +22,4 @@ COPY . .
 EXPOSE 7860
 
 # Lancer l'application
-CMD ["streamlit", "run", "app/streamlit_app.py", "--server.port=7860", "--server.address=0.0.0.0"]
+CMD ["streamlit", "run", "hf_app.py", "--server.port=7860", "--server.address=0.0.0.0"]

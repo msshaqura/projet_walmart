@@ -1,5 +1,5 @@
 # Fichiers binaires à traiter avec Git LFS
-*.pkl filter=xet diff=lfs merge=lfs -text
+*.pkl filter=xet diff=xet merge=xet
 *.joblib filter=xet diff=lfs merge=lfs -text
 
 # Fichiers CSV (texte)
