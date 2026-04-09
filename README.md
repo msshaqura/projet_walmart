@@ -1,9 +1,3 @@
-# ------------------------------
-# CONTENU DU FICHIER README.md
-# À copier-coller dans README.md
-# ------------------------------
-
-readme_content = """
 # Walmart Sales Prediction
 
 ## 🎯 Objectif du projet
