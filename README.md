@@ -154,9 +154,8 @@ Pourquoi c'est important ?
 
 - Après contrôle par Store, le coefficient redevient négatif (-21 998 $)
 
-![Image 1](images/image-1.png)
-
-![Image 2](images/image.png)
+<img src="image-1.png" width="200"/>
+<img src="image.png" width="200"/>
 
 
 🛠️ Stack technique
