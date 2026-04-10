@@ -155,8 +155,8 @@ Pourquoi c'est important ?
 - Après contrôle par Store, le coefficient redevient négatif (-21 998 $)
 
 --- 
-![Image 1](https://raw.githubusercontent.com/msshaqura/projet_walmart/main/image-1.png)
-![Image 2](https://raw.githubusercontent.com/msshaqura/projet_walmart/main/image.png)
+![Image 1](https://github.com/msshaqura/projet_walmart/main/image-1.png)
+![Image 2](https://github.com/msshaqura/projet_walmart/main/image.png)
 
 --- 
 🛠️ Stack technique
