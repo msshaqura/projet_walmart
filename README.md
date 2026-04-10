@@ -154,9 +154,10 @@ Pourquoi c'est important ?
 
 - Après contrôle par Store, le coefficient redevient négatif (-21 998 $)
 
-![alt text](image.png)
+![Image 1](images/image-1.png)
 
-![alt text](image-1.png)
+![Image 2](images/image.png)
+
 
 🛠️ Stack technique
 Catégorie	        Technologies
