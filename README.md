@@ -155,9 +155,9 @@ Pourquoi c'est important ?
 - Après contrôle par Store, le coefficient redevient négatif (-21 998 $)
 
 --- 
-[show relation unemployment vs weekly sales by store](https://github.com/msshaqura/projet_walmart/blob/main/image.png?raw=true)
+[show relation unemployment vs weekly sales by store](https://raw.githubusercontent.com/msshaqura/projet_walmart/main/image.png)
 
-[unemployment rate and sales trend by store](https://github.com/msshaqura/projet_walmart/blob/main/image-1.png?raw=true)
+[unemployment rate and sales trend by store](https://raw.githubusercontent.com/msshaqura/projet_walmart/main/image-1.png)
 
 --- 
 🛠️ Stack technique
